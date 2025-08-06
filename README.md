@@ -1,1 +1,1 @@
-# AI-MRI
+# AI MRI
