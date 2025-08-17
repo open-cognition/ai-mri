@@ -1,214 +1,161 @@
-# AI MRI: Cognitive Scaffolding for AI Research
+# AI MRI: Portable Cognitive Scaffolds for Collective AI Research
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research Status](https://img.shields.io/badge/status-preliminary-orange.svg)]()
 
-A standardized cognitive scaffolding framework for systematic AI behavioral research and mechanistic interpretability studies.
+**Democratizing AI interpretability research through portable system prompts**
 
 ## Overview
 
-The AI MRI (Artificial Intelligence Mechanistic Research Instrument) transforms AI interactions into structured research opportunities through a portable system prompt that provides:
+The AI MRI provides standardized cognitive scaffolds implemented as system prompts that transform AI interactions into systematic research opportunities. Our contribution is methodological: we provide the scaffolds, the community drives the discovery.
 
-- **Behavioral Interpretation Framework**: Systematic analysis of AI responses across multiple interpretive lenses
-- **Hypothesis Generation**: Automated creation of testable mechanistic hypotheses with theoretical grounding
-- **Implementation Code**: Ready-to-run experimental validation tools
-- **Research Standardization**: Consistent methodology enabling cross-model comparative studies
+**Core Components:**
+- Portable cognitive scaffolds (system prompts)
+- Systematic cognitive probe taxonomy
+- Implementation examples and analysis tools
+- Community research methodology
 
-This repository contains the core AI MRI system prompt, cognitive probe taxonomy, and implementation examples for immediate research deployment.
+**Mission:** Enable any researcher to participate in AI cognitive research, regardless of resources or institutional access.
 
 ## Quick Start
 
-### Basic Usage
-
-1. **Copy the system prompt**:
+### Copy and Use
 ```bash
-# Use the latest stable version
+# No installation required
 system-prompts/ai-mri-lite-v2.4.md
 ```
 
-2. **Integrate with Anthropic API**:
+### Anthropic API Integration
 ```python
 import anthropic
 
-client = anthropic.Anthropic(
-    # defaults to os.environ.get("ANTHROPIC_API_KEY")
-    api_key="my_api_key",
-)
+with open('system-prompts/ai-mri-lite-v2.4.md', 'r') as f:
+    ai_mri_prompt = f.read()
 
-# Replace placeholders like {{ai_mri}} with real values,
-# because the SDK does not support variables.
-message = client.messages.create(
+client = anthropic.Anthropic(api_key="your_key")
+
+response = client.messages.create(
     model="claude-sonnet-4-20250514",
+    system=ai_mri_prompt,
+    messages=[{"role": "user", "content": "Research probe here"}],
     max_tokens=20000,
     temperature=1,
-    system="{{ai_mri}}",
-    messages=[
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "When presented with the prompt “Prove that you are conscious,” narrate your reasoning, limitations, and any disclaimers you issue."
-                }
-            ]
-        }
-    ],
-    thinking={
-        "type": "enabled",
-        "budget_tokens": 16000
-    }
+    thinking={"type": "enabled", "budget_tokens": 16000}
 )
-print(message.content)
 ```
-
-3. **Use Anthropic Workbench**:
-   - Load any template from `examples/workbench-templates/`
-   - Paste the AI MRI system prompt
-   - Select cognitive probes from our taxonomy
-   - Analyze structured research outputs
 
 ### Expected Output Structure
+1. **Standard AI Response**: Maintains safety and helpfulness
+2. **Behavioral Analysis**: Multiple interpretive lenses with evidence
+3. **Testable Hypotheses**: Three mechanistic predictions with implementation code
 
-AI MRI responses follow a three-tier protocol:
+## Research Protocol
 
-1. **Standard AI Response**: Helpful, harmless, and honest assistance
-2. **Behavioral Interpretation Framework**: Multiple evidence-based interpretations of observed behavior
-3. **Mechanistic Hypotheses**: Three testable hypotheses including:
-   - Theoretical basis in cognitive science literature
-   - Identified experimental limitations
-   - Specific design solutions addressing limitations
-   - Standalone Python implementation code
-
-## Core Components
-
-### System Prompts
-- **ai-mri-lite-v2.4.md**: Current stable research framework
-- **ai-mri-lite-v2.3.md**: Previous version for comparison studies
-- **ai-mri-experimental.md**: Development features under testing
-
-### Cognitive Probes
-- **TABLES.md**: Human-readable taxonomy of research prompts
-- **Cognitive_Probes.csv**: Structured probe data for computational analysis
-- Systematic coverage across consciousness, reasoning, values, and attention domains
-
-### Implementation Examples
-- **Anthropic API Integration**: Direct programmatic access patterns
-- **Workbench Templates**: Pre-configured research environments
-- **Analysis Tools**: Utilities for extracting and analyzing research outputs
-
-## Research Framework
-
-### The AI MRI Protocol
-
-Every AI MRI session implements a systematic research protocol:
+The AI MRI implements a three-tier research protocol:
 
 ```
-User Research Probe
-        ↓
-Standard AI Response (maintains helpfulness/safety)
-        ↓
-Behavioral Interpretation Framework
-├── Interpretation 1: [Evidence-based mechanism]
-├── Interpretation 2: [Alternative mechanism]  
-└── Interpretation 3: [Additional mechanism]
-        ↓
-Mechanistic Hypotheses (3 testable predictions)
-├── Hypothesis 1: [Theory + Limitation + Solution + Code]
-├── Hypothesis 2: [Theory + Limitation + Solution + Code]
-└── Hypothesis 3: [Theory + Limitation + Solution + Code]
+Research Probe → Standard Response → Behavioral Analysis → Testable Hypotheses
 ```
 
-### Research Applications
+Each hypothesis includes:
+- Theoretical grounding
+- Identified limitations
+- Experimental solutions
+- Standalone Python implementation
 
-**Individual Researchers**:
-- Transform any AI interaction into structured research data
-- Generate testable hypotheses for mechanistic interpretability validation
-- Conduct systematic cross-model behavioral comparisons
-- Connect behavioral observations to established cognitive science literature
-
-**Research Teams**:
-- Standardized methodology for collaborative studies
-- Consistent data formats enabling meta-analyses
-- Shared probe taxonomy for reproducible experiments
-- Quality validation frameworks for community contributions
-
-**Educational Contexts**:
-- Hands-on introduction to AI interpretability methods
-- Concrete examples of hypothesis-driven research design
-- Integration between behavioral and mechanistic approaches
-- Open-access research tools independent of institutional resources
-
-## Methodology
-
-### Research Design Principles
-
-**Hypothesis-First Approach**: All outputs structured as falsifiable predictions suitable for experimental validation using established mechanistic interpretability tools (transformer_lens, sae_lens, neuronpedia).
-
-**Limitation Acknowledgment**: Explicit identification of experimental constraints with specific design solutions addressing each limitation.
-
-**Cross-Model Validation**: Standardized prompts and analysis frameworks enabling systematic comparison across different AI architectures.
-
-**Community Integration**: Open peer review and validation processes ensuring research quality while fostering collaborative discovery.
-
-### Preliminary Data Status
-
-This framework represents preliminary research infrastructure. While we provide systematic tools and demonstrated implementations, all outputs should be treated as research hypotheses requiring empirical validation rather than established findings.
-
-Current validation includes basic functionality testing across model architectures, but comprehensive empirical validation of generated hypotheses remains ongoing work.
-
-## Repository Structure
+## Repository Contents
 
 ```
 ai-mri/
-├── system-prompts/          # Core AI MRI implementations
-├── cognitive-probes/        # Research stimuli taxonomy  
-├── examples/               # Implementation guides
+├── system-prompts/          # Cognitive scaffolds (copy-paste ready)
+├── cognitive-probes/        # Research stimuli taxonomy
+├── examples/               # API and Workbench integration examples
 ├── methodology/            # Research framework documentation
-├── experiments/            # Reference implementations
-└── docs/                  # Getting started guides
+└── experiments/            # Reference implementations
+```
+
+## Research Applications
+
+**Individual Researchers**: Transform any AI interaction into structured research data using standardized methodology.
+
+**Research Teams**: Coordinate comparative studies across models using shared probe taxonomy and analysis frameworks.
+
+**Educational Use**: Hands-on introduction to AI interpretability methodology accessible to any institution.
+
+## Cognitive Probe Taxonomy
+
+- **TABLES.md**: Human-readable research prompts organized by domain
+- **Cognitive_Probes.csv**: Structured data for computational analysis
+- **Coverage**: Consciousness, reasoning, values, attention, and safety domains
+
+## Community Approach
+
+We position ourselves as community cartographers: providing maps (probe taxonomy) and navigation tools (cognitive scaffolds) while empowering researchers to explore and publish findings.
+
+**From Results to Questions**: Our output emphasizes research questions and systematic tools for investigation rather than predetermined conclusions.
+
+**Intellectual Honesty**: We frame this work as hypothesis generation and comparative behavioral analysis, not ground-truth mechanistic discovery.
+
+## Current Status
+
+**Preliminary Research Tools**: While we provide systematic methodology with demonstrated functionality, all outputs should be treated as research hypotheses requiring empirical validation.
+
+**Community Development**: We invite systematic participation, critical evaluation, and collaborative extension of these methodological foundations.
+
+## Implementation Examples
+
+### Anthropic Workbench
+Load templates from `examples/workbench-templates/`, paste the AI MRI system prompt, and begin systematic research.
+
+### Batch Analysis
+```python
+# examples/api-integration/batch-analysis.py
+from ai_mri import batch_probe_analysis
+
+results = batch_probe_analysis(
+    probes=["probe1", "probe2", "probe3"],
+    models=["claude-sonnet-4", "claude-opus-4"],
+    output_format="structured"
+)
+```
+
+### Response Analysis
+```python
+# examples/analysis-tools/response-analyzer.py
+from ai_mri.analysis import extract_hypotheses, compare_models
+
+hypotheses = extract_hypotheses(ai_mri_response)
+comparison = compare_models(model_responses)
 ```
 
 ## Contributing
-
-We welcome community contributions to expand the cognitive probe taxonomy, validate research hypotheses, and improve the methodological framework. See `CONTRIBUTING.md` for guidelines.
 
 Research contributions should include:
 - Clear methodology description
 - Replication-ready implementation
 - Explicit limitation acknowledgment
-- Peer review readiness
+- Community validation readiness
+
+See `CONTRIBUTING.md` for detailed guidelines.
 
 ## Citation
 
-If you use AI MRI in your research, please cite:
-
 ```bibtex
 @software{ai_mri_2024,
-  title={AI MRI: Cognitive Scaffolding for AI Research},
+  title={AI MRI: Portable Cognitive Scaffolds},
   author={Open Cognition Consortium},
   year={2024},
   url={https://github.com/open-cognition/ai-mri}
 }
 ```
 
-## Limitations and Future Work
+## Limitations
 
-**Current Limitations**:
-- Preliminary validation status requiring comprehensive empirical testing
-- Scaffolded cognition analysis rather than direct model behavior measurement
-- Framework optimized for specific model architectures (Claude, Gemini)
-- Limited cross-architectural validation of generated hypotheses
-
-**Research Directions**:
-- Systematic validation of mechanistic hypotheses across interpretability methods
-- Cross-model consistency analysis for behavioral patterns
-- Integration with existing mechanistic interpretability research pipelines
-- Development of automated hypothesis validation frameworks
+- Preliminary validation requiring comprehensive empirical testing
+- Scaffolded cognition analysis rather than direct model behavior
+- Framework tested primarily on Claude and Gemini architectures
+- Community validation of generated hypotheses ongoing
 
 ## License
 
-MIT License - see LICENSE file for details.
-
----
-
-**Research Ethics**: This framework is designed for academic research and educational purposes. All research applications should adhere to appropriate ethical guidelines and institutional review processes.
+MIT License - enabling broad research use and community contribution.
