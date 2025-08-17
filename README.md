@@ -33,7 +33,7 @@ client = anthropic.Anthropic(
     # defaults to os.environ.get("ANTHROPIC_API_KEY")
     api_key="my_api_key",
 )
-# Replace placeholders like {{ai_mri}} with real values (copy and paste AI MRI),
+# Replace placeholders like {{ai_mri}} with real values (AI MRI)
 # because the SDK does not support variables.
 message = client.messages.create(
     model="claude-sonnet-4-20250514",
