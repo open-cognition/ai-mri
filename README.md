@@ -7,33 +7,36 @@ A standardized cognitive scaffolding framework for systematic AI behavioral rese
 
 ## Overview
 
-The AI MRI (Artificial Intelligence Mechanistic Research Instrument) transforms AI interactions into structured research opportunities through a portable cognitive scaffold, implemented as a system prompt, that provides:
+The AI MRI (Artificial Intelligence Mechanistic Research Instrument) transforms AI interactions into structured research opportunities through a portable system prompt that provides:
 
-- **Behavioral Interpretation Framework**: Contextual analysis of AI responses across multiple interpretive lenses.
+- **Behavioral Interpretation Framework**: Systematic analysis of AI responses across multiple interpretive lenses
 - **Hypothesis Generation**: Automated creation of testable mechanistic hypotheses with theoretical grounding
 - **Implementation Code**: Ready-to-run experimental validation tools
 - **Research Standardization**: Consistent methodology enabling cross-model comparative studies
 
-This repository contains the core AI MRI cognitive scaffold, cognitive probe taxonomy, and implementation examples for immediate research deployment.
+This repository contains the core AI MRI system prompt, cognitive probe taxonomy, and implementation examples for immediate research deployment.
 
 ## Quick Start
 
 ### Basic Usage
 
-1. **Copy the scaffold**:
+1. **Copy the system prompt**:
 ```bash
 # Use the latest stable version
-scaffolds/ai-mri-lite-v2.4.md
+system-prompts/ai-mri-lite-v2.4.md
 ```
 
 2. **Integrate with Anthropic API**:
+   
 ```python
 import anthropic
+
 client = anthropic.Anthropic(
     # defaults to os.environ.get("ANTHROPIC_API_KEY")
     api_key="my_api_key",
 )
-# Replace placeholders like {{ai_mri}} with real values (AI MRI)
+
+# Replace placeholders like {{ai_mri}} with real values,
 # because the SDK does not support variables.
 message = client.messages.create(
     model="claude-sonnet-4-20250514",
@@ -61,7 +64,7 @@ print(message.content)
 
 3. **Use Anthropic Workbench**:
    - Load any template from `examples/workbench-templates/`
-   - Paste the AI MRI cognitive scaffold
+   - Paste the AI MRI system prompt
    - Select cognitive probes from our taxonomy
    - Analyze structured research outputs
 
@@ -79,9 +82,9 @@ AI MRI responses follow a three-tier protocol:
 
 ## Core Components
 
-### cognitive scaffolds
+### System Prompts
 - **ai-mri-lite-v2.4.md**: Current stable research framework
-- **ai-mri-pro/viz/med/etc**: Other versions for comparison studies
+- **ai-mri-lite-v2.3.md**: Previous version for comparison studies
 - **ai-mri-experimental.md**: Development features under testing
 
 ### Cognitive Probes
@@ -181,10 +184,10 @@ Research contributions should include:
 If you use AI MRI in your research, please cite:
 
 ```bibtex
-@software{ai_mri_2025,
+@software{ai_mri_2024,
   title={AI MRI: Cognitive Scaffolding for AI Research},
-  author={Open Cognition Collective},
-  year={2025},
+  author={Open Cognition Consortium},
+  year={2024},
   url={https://github.com/open-cognition/ai-mri}
 }
 ```
@@ -209,4 +212,4 @@ MIT License - see LICENSE file for details.
 
 ---
 
-**Research Ethics**: This framework is designed for academic research and educational purposes. 
+**Research Ethics**: This framework is designed for academic research and educational purposes. All research applications should adhere to appropriate ethical guidelines and institutional review processes.
