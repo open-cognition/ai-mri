@@ -40,10 +40,10 @@ We explicitly frame our work as hypothesis generation and comparative behavioral
 ### Basic Implementation
 
 1. **Copy the cognitive scaffold**:
-   ```bash
-   # Use the latest stable version
-   system-prompts/ai-mri-lite-v2.4.md
-   ```
+```bash
+# Use the latest stable version
+system-prompts/ai-mri-lite-v2.4.md
+```
 
 2. **Deploy with Anthropic API**:
 ```python
