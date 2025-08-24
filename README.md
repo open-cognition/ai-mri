@@ -47,7 +47,8 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 | 5     | CognitiveBenchmarks                                                                                  | A benchmark suite testing models across reasoning, cognitive, and behavioral domains, with focus on hypothesis generation. |
 | 6     | Comparative Analyses of Frontier Models                                                              | Side-by-side evaluations of current frontier architectures, highlighting design trade-offs and behavioral differences.     |
 | 7     | Implementation Examples & Analysis tools                                                             | Practical toolkits and code examples for running, extending, and analyzing AI MRI experiments.                             |
-| 8     | [OpenAtlas & Community Research Methodology]()                                                                       | Community powered dataset and shared research protocols to ensure rigor, reproducibility, and open collaboration across contributors.                    |
+| 8     | OpenAtlas                                                                       | Community powered dataset and shared research protocols to ensure rigor, reproducibility, and open collaboration across contributors.                    |
+| 9     | Dashboard                                                                       | Open source dashboard and atlas mapping and visualizing model refusals and hypotheses across domains |
 
 ## Quick Start
 
@@ -139,10 +140,6 @@ We position ourselves as community cartographers: providing maps (probe taxonomy
 
 **Community Development**: We invite systematic participation, critical evaluation, and collaborative extension of these methodological foundations.
 
-## Future Directions and Visions
-**`OpenAtlas`**
-* **Function:** Large-scale, open-source datasets of `[Probe → Model + AI MRI → Output]`
-* Scale `CognitiveBenchmarks` 
 
 ## Contributing
 
