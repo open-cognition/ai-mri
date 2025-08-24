@@ -11,7 +11,9 @@
 
 ## Overview
 
-AI MRIs (Mechanistic Research Instruments) provide standardized cognitive scaffolds implemented as modular code blocks in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities across both closed and open source model architectures. Our contribution is methodological: we empower the community with methods and scaffolds that drive discovery.
+AI MRIs (Mechanistic Research Instruments) provide standardized cognitive scaffolds implemented as modular code blocks in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities across both closed and open source model architectures. 
+
+Our contribution is methodological: we empower the community with methods and scaffolds that drive discovery and support the research of scaffolded cognition.
 
 ### Designed For: 
 - `Anthropic Workbench`
