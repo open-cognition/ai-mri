@@ -3,14 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research Status](https://img.shields.io/badge/status-preliminary-orange.svg)]()
 
-**Democratizing AI interpretability research through portable system prompts**
+**Democratizing AI interpretability research through portable cognitive scaffolds**
 
 ## Overview
 
-The AI MRI provides standardized cognitive scaffolds implemented as system prompts that transform AI interactions into systematic research opportunities. Our contribution is methodological: we provide the scaffolds, the community drives the discovery.
+The AI MRI provides standardized cognitive scaffolds implemented as modular code blocks implemented in system context window that transform AI interactions into systematic research opportunities. Our contribution is methodological: we provide the scaffolds, the community drives the discovery.
 
 **Core Components:**
-- Portable cognitive scaffolds (system prompts)
+- Portable cognitive scaffolds 
 - Systematic cognitive probe taxonomy
 - Implementation examples and analysis tools
 - Community research methodology
