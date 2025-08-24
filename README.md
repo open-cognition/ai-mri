@@ -34,7 +34,7 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 **Core Components (Under Construction):**
 1. [Portable cognitive scaffolds (more coming soon)](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)
 2. [Systematic cognitive probe taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)
-3. [Datasets of `[Probe → Model + AI MRI → Output]` mapping the hypotheses space of large language models](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
+3. [Datasets of `[Probe → Model + AI MRI → Output]` mapping the refusal and hypotheses space of large language models](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
 4. [Datasets of `[Probe → Model → Output]` of model baselines (without scaffold) for rigorous comparative analysis](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
 5. CognitiveBenchmarks testing model cognitive and behavioral domains and hypotheses generation capabilities
 6. Comparative analyses of live frontier model architectures
