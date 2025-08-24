@@ -25,13 +25,20 @@ Compile experimental designs and elicit hypothese directly from live frontier mo
 1. Simply copy an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) and add it as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the context window to use with most providers.
 2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. 
 
-https://github.com/user-attachments/assets/be29871e-cf59-4981-a55e-801e86aee866
+
+## Anthropic Workbench 
+
+https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
 
 
 When complete, click on the "Get code" button to generate a sample using Anthropic's Python and Typescript SDKs:
 
 <img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
+## Google AI Studio
+
+
+## OpenAI Playground 
 
 ## **Science Development Kit (SDK)**
 > In Development
