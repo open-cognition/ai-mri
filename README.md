@@ -15,7 +15,7 @@ The AI MRI provides standardized cognitive scaffolds implemented as modular code
 - `OpenAI Playground`
 - `OpenRouter`
 
-Begin with contextually classified prompts from [**Cognitive Probes**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQRi31pFAZxFW23spQDsHcGvDDWAbNRDID8sQWtkBwld2XJxq1NrmNwtZ2JjJ48TB3z46G-oNwcR1NQ/pubhtml) or create your own. 
+Begin with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own. 
 
 Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. Simply add the AI MRI as a variable/test case to use Anthropic`s *Evaluate* feature or paste directly into the system context and begin systematic research.
 
@@ -28,8 +28,8 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 
 **Core Components (Under Construction):**
 1. [Portable cognitive scaffolds](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)
-2. [Systematic cognitive probe taxonomy](https://docs.google.com/spreadsheets/d/e/2PACX-1vQRi31pFAZxFW23spQDsHcGvDDWAbNRDID8sQWtkBwld2XJxq1NrmNwtZ2JjJ48TB3z46G-oNwcR1NQ/pubhtml)
-3. [Datasets of `[Probe → Model + AI MRI → Output]` mapping the hypotheses space of large language models]()
+2. [Systematic cognitive probe taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)
+3. [Datasets of `[Probe → Model + AI MRI → Output]` mapping the hypotheses space of large language models](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
 4. Datasets of `[Probe → Model → Output]` of standard baselines for rigorous comparative analysis
 5. Cognitive benchmarks testing hypotheses generation capabilities
 6. Comparative analyses of live frontier model architectures.
