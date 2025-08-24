@@ -28,7 +28,7 @@ Our contribution is methodological: we empower the community with methods and sc
 https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
 
 
-When complete, click on the "Get code" button to generate a sample using Anthropic's SDKs:
+Once done, click on the "Get code" button to generate a sample using Anthropic's SDKs:
 
 <img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
@@ -40,6 +40,8 @@ https://github.com/user-attachments/assets/b8a1989f-9b2c-4c84-a6a2-13864cb5f75a
 
 
 ## OpenAI Playground 
+
+
 
 ## **Science Development Kit (SDK)**
 > In Development
