@@ -38,7 +38,7 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 
 **Mission:** Enable any researcher to participate in AI behavioral and cognitive research, regardless of resources or institutional access.
 
-| **#** | **Link**                                                                                     | **Description**                                                                                                            |
+| **#** | **Links**                                                                                     | **Description**                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 1     | [Portable Cognitive Scaffolds](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)         | Modular scaffolds designed to extend and structure model reasoning, enabling portable and composable “thinking frameworks.”    |
 | 2     | [Systematic Cognitive Probe Taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)      | A structured classification system treating prompts as probes that elicit specific cognitive or behavioral responses from models.          |
