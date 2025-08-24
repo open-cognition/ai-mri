@@ -139,10 +139,10 @@ See `CONTRIBUTING.md` for detailed guidelines.
 ## Citation
 
 ```bibtex
-@software{ai_mri_2024,
+@software{ai_mri_2025,
   title={AI MRI: Portable Cognitive Scaffolds},
-  author={Open Cognition Consortium},
-  year={2024},
+  author={Open Cognition},
+  year={2025},
   url={https://github.com/open-cognition/ai-mri}
 }
 ```
