@@ -26,17 +26,18 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 
 ### **An Experimental Science Development Kit (SDK) for Bridging Model Behavior & Mechanistic Validation (Research Preview)**
 
+**Mission:** Enable any researcher to participate in AI behavioral and cognitive research, regardless of resources or institutional access.
+
 **Core Components (Under Construction):**
 1. [Portable cognitive scaffolds](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)
 2. [Systematic cognitive probe taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)
 3. [Datasets of `[Probe → Model + AI MRI → Output]` mapping the hypotheses space of large language models](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
-4. Datasets of `[Probe → Model → Output]` of standard baselines for rigorous comparative analysis
+4. [Datasets of `[Probe → Model → Output]` of model baselines (without scaffold) for rigorous comparative analysis](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
 5. Cognitive benchmarks testing hypotheses generation capabilities
 6. Comparative analyses of live frontier model architectures.
 7. Implementation examples and analysis tools
 8. Community research methodology
 
-**Mission:** Enable any researcher to participate in AI cognitive research, regardless of resources or institutional access.
 
 ## Quick Start
 
