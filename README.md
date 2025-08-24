@@ -13,8 +13,9 @@
 
 AI MRIs (Mechanistic Research Instruments) provides standardized cognitive scaffolds implemented as modular code blocks in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities. Our contribution is methodological: we empower the community with scaffolds and methods that drive discovery.
 
-### Research with: 
+### Designed For: 
 - `Anthropic Workbench`
+### Compatible with:
 - `Google AI Studio`
 - `OpenAI Playground`
 - `OpenRouter`
@@ -24,8 +25,7 @@ Compile experimental designs and elicit hypothese directly from live frontier mo
 1. Simply add an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the system context.
 2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. 
 
-
-https://github.com/user-attachments/assets/52a2a460-bacb-4f97-8ad1-e9723198ab90
+https://github.com/user-attachments/assets/be29871e-cf59-4981-a55e-801e86aee866
 
 
 When complete, click on the "Get code" button to generate a sample using Anthropic's Python and Typescript SDKs:
