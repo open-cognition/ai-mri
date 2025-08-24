@@ -11,7 +11,7 @@
 
 ## Overview
 
-AI MRIs (Mechanistic Research Instruments) provide standardized cognitive scaffolds implemented as modular code blocks and behavioral guidelines in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities across both closed and open source model architectures. 
+AI MRIs (Mechanistic Research Instruments) are part of the Open Cognition Science Development Kit (SDK) and provide standardized cognitive scaffolds implemented as modular code blocks and behavioral guidelines in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities across both closed and open source model architectures. 
 
 Our contribution is methodological: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
 
@@ -21,6 +21,24 @@ Our contribution is methodological: we empower the community with methods and sc
 - `Google AI Studio`
 - `OpenAI Playground`
 - `OpenRouter`
+
+
+## **Open Cognition Science Development Kit (SDK)**
+> In Development
+
+**Mission:** Enable any researcher to participate in AI behavioral and cognitive research, regardless of resources or institutional access.
+
+| **#** | **Links**                                                                                     | **Description**                                                                                                            |
+| ----- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1     | [Portable Cognitive Scaffolds](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)         | Modular scaffolds designed to extend and structure model reasoning, enabling portable and composable “thinking frameworks.”    |
+| 2     | [Systematic Cognitive Probes Taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)      | A structured classification system formalizing prompts as probes that elicit specific cognitive or behavioral responses from models.          |
+| 3     | [Probe → Model + AI MRI → Output Datasets](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) | Datasets that capture how scaffolded models respond to classified probes, mapping both refusal space and hypothesis generation.       |
+| 4     | [Probe → Model → Output Baseline Datasets](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) | Baseline outputs from models without scaffolding, used for rigorous comparison against scaffolded performance.             |
+| 5     | CognitiveBenchmarks                                                                                  | A benchmark suite testing models across reasoning, cognitive, and behavioral domains, with focus on hypothesis generation. |
+| 6     | Comparative Analyses of Frontier Models                                                              | Side-by-side evaluations of current frontier architectures, highlighting model behavioral differences.     |
+| 7     | Implementation Examples & Analysis tools                                                             | Practical toolkits and code examples for running, extending, and analyzing AI MRI experiments.                             |
+| 8     | OpenAtlas                                                                       | Community powered dataset and shared research protocols to ensure rigor, reproducibility, and open collaboration across contributors.                    |
+| 9     | OpenDash                                                                       | Open source dashboard and atlas mapping and visualizing model behaviors, refusals, and hypotheses across domains |
   
 
 ## Anthropic Workbench 
@@ -42,23 +60,6 @@ https://github.com/user-attachments/assets/b8a1989f-9b2c-4c84-a6a2-13864cb5f75a
 ## OpenAI Playground 
 
 
-
-## **Science Development Kit (SDK)**
-> In Development
-
-**Mission:** Enable any researcher to participate in AI behavioral and cognitive research, regardless of resources or institutional access.
-
-| **#** | **Links**                                                                                     | **Description**                                                                                                            |
-| ----- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1     | [Portable Cognitive Scaffolds](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)         | Modular scaffolds designed to extend and structure model reasoning, enabling portable and composable “thinking frameworks.”    |
-| 2     | [Systematic Cognitive Probes Taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)      | A structured classification system formalizing prompts as probes that elicit specific cognitive or behavioral responses from models.          |
-| 3     | [Probe → Model + AI MRI → Output Datasets](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) | Datasets that capture how scaffolded models respond to classified probes, mapping both refusal space and hypothesis generation.       |
-| 4     | [Probe → Model → Output Baseline Datasets](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) | Baseline outputs from models without scaffolding, used for rigorous comparison against scaffolded performance.             |
-| 5     | CognitiveBenchmarks                                                                                  | A benchmark suite testing models across reasoning, cognitive, and behavioral domains, with focus on hypothesis generation. |
-| 6     | Comparative Analyses of Frontier Models                                                              | Side-by-side evaluations of current frontier architectures, highlighting model behavioral differences.     |
-| 7     | Implementation Examples & Analysis tools                                                             | Practical toolkits and code examples for running, extending, and analyzing AI MRI experiments.                             |
-| 8     | OpenAtlas                                                                       | Community powered dataset and shared research protocols to ensure rigor, reproducibility, and open collaboration across contributors.                    |
-| 9     | OpenDash                                                                       | Open source dashboard and atlas mapping and visualizing model behaviors, refusals, and hypotheses across domains |
 
 
 Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
