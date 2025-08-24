@@ -20,7 +20,8 @@ The AI MRI provides standardized cognitive scaffolds implemented as modular code
 
 Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
 
-Simply add an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the system context then probe with with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. 
+1. Simply add an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the system context.
+2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. 
 
 When complete, click on the "Get code" button to generate a sample using Anthropic's Python and Typescript SDKs:
 
