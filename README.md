@@ -7,7 +7,7 @@
 
 ## Overview
 
-The AI MRI provides standardized cognitive scaffolds implemented as modular code blocks in system context window that transform AI interactions into systematic research opportunities. Our contribution is methodological: we provide scaffolds that empower the community and drives discovery.
+The AI MRI provides standardized cognitive scaffolds implemented as modular code blocks in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities. Our contribution is methodological: we provide scaffolds that empower the community and drives discovery.
 
 ### Research with: 
 - `Anthropic Workbench`
@@ -15,17 +15,25 @@ The AI MRI provides standardized cognitive scaffolds implemented as modular code
 - `OpenAI Playground`
 - `OpenRouter`
 
+Begin with contextually classified prompts from [**Cognitive Probes**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQRi31pFAZxFW23spQDsHcGvDDWAbNRDID8sQWtkBwld2XJxq1NrmNwtZ2JjJ48TB3z46G-oNwcR1NQ/pubhtml) or create your own. 
+
 Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. Simply add the AI MRI as a variable/test case to use Anthropic`s *Evaluate* feature or paste directly into the system context and begin systematic research.
 
 When complete, click on the "Get code" button to generate a sample using Anthropic's Python and Typescript SDKs:
 
 <img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
-**Core Components:**
-- Portable cognitive scaffolds 
-- Systematic cognitive probe taxonomy
-- Implementation examples and analysis tools
-- Community research methodology
+
+### **An Experimental Science Development Kit (SDK) for Bridging Model Behavior & Mechanistic Validation (Research Preview)**
+
+**Core Components (Under Construction):**
+1. Portable cognitive scaffolds 
+2. Systematic cognitive probe taxonomy
+3. Datasets of `[Probe → Model + AI MRI → Output]`
+4. Cognitive benchmarks testing hypotheses generation capabilities
+5. Comparative analyses of live frontier model architectures.
+6. Implementation examples and analysis tools
+7. Community research methodology
 
 **Mission:** Enable any researcher to participate in AI cognitive research, regardless of resources or institutional access.
 
