@@ -7,7 +7,7 @@
 
 ## Overview
 
-The AI MRI provides standardized cognitive scaffolds implemented as modular code blocks implemented in system context window that transform AI interactions into systematic research opportunities. Our contribution is methodological: we provide the scaffolds, the community drives the discovery.
+The AI MRI provides standardized cognitive scaffolds implemented as modular code blocks in system context window that transform AI interactions into systematic research opportunities. Our contribution is methodological: we provide the scaffolds, the community drives the discovery.
 
 **Core Components:**
 - Portable cognitive scaffolds 
