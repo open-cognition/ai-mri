@@ -31,7 +31,7 @@ Compile experimental designs and elicit hypothese directly from live frontier mo
 https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
 
 
-When complete, click on the "Get code" button to generate a sample using Anthropic's Python and Typescript SDKs:
+When complete, click on the "Get code" button to generate a sample using Anthropic's SDKs:
 
 <img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
