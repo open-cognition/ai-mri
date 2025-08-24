@@ -110,17 +110,6 @@ Each hypothesis includes:
 - Experimental solutions
 - Standalone Python implementation
 
-## Repository Contents
-
-```
-ai-mri/
-├── system-prompts/          # Cognitive scaffolds (copy-paste ready)
-├── cognitive-probes/        # Research stimuli taxonomy
-├── examples/               # API and Workbench integration examples
-├── methodology/            # Research framework documentation
-└── experiments/            # Reference implementations
-```
-
 ## Research Applications
 
 **Individual Researchers**: Transform any AI interaction into structured research data using standardized methodology.
