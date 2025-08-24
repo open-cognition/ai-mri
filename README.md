@@ -11,7 +11,7 @@
 
 ## Overview
 
-AI MRIs (Mechanistic Research Instruments) provides standardized cognitive scaffolds implemented as modular code blocks in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities. Our contribution is methodological: we empower the community with scaffolds and methods that drive discovery.
+AI MRIs (Mechanistic Research Instruments) provide standardized cognitive scaffolds implemented as modular code blocks in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities. Our contribution is methodological: we empower the community with m that drive discovery.
 
 ### Designed For: 
 - `Anthropic Workbench`
@@ -37,15 +37,16 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 
 **Mission:** Enable any researcher to participate in AI behavioral and cognitive research, regardless of resources or institutional access.
 
-**Core Components (Under Construction):**
-1. [Portable cognitive scaffolds (more coming soon)](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)
-2. [Systematic cognitive probe taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)
-3. [Datasets of `[Probe → Model + AI MRI → Output]` mapping the refusal and hypotheses space of large language models](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
-4. [Datasets of `[Probe → Model → Output]` of model baselines (without scaffold) for rigorous comparative analysis](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
-5. CognitiveBenchmarks testing model cognitive and behavioral domains and hypotheses generation capabilities
-6. Comparative analyses of live frontier model architectures
-7. Implementation examples and analysis tools
-8. Community research methodology
+| **#** | **Core Component**                                                                                             | **Link / Description**                                                                                 |
+| ----- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1     | Portable cognitive scaffolds (more coming soon)                                                                | [GitHub – AI MRI Scaffolds](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)      |
+| 2     | Systematic cognitive probe taxonomy                                                                            | [Airtable – Probe Taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)                  |
+| 3     | Datasets of `[Probe → Model + AI MRI → Output]` mapping the refusal and hypotheses space of LLMs               | [Airtable – Probe → Model + AI MRI → Output](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) |
+| 4     | Datasets of `[Probe → Model → Output]` of model baselines (without scaffold) for rigorous comparative analysis | [Airtable – Probe → Model → Output](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)          |
+| 5     | CognitiveBenchmarks testing model cognitive and behavioral domains and hypotheses generation capabilities      | —                                                                                                      |
+| 6     | Comparative analyses of live frontier model architectures                                                      | —                                                                                                      |
+| 7     | Implementation examples and analysis tools                                                                     | —                                                                                                      |
+| 8     | Community research methodology                                                                                 | —                                                                                                      |
 
 
 ## Quick Start
