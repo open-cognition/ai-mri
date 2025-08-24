@@ -34,6 +34,7 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 
 
 ## **Science Development Kit (SDK)**
+> In Development
 
 **Mission:** Enable any researcher to participate in AI behavioral and cognitive research, regardless of resources or institutional access.
 
