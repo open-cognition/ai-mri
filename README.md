@@ -10,11 +10,9 @@
 The AI MRI provides standardized cognitive scaffolds implemented as modular code blocks in system context window that transform AI interactions into systematic research opportunities. Our contribution is methodological: we provide the scaffolds, the community drives the discovery.
 
 ### Research with Anthropic Workbench/Google AI Studio/OpenAI Playground
-Designed for Anthropic Workbench. Compatible with Google AI Studio, OpenAI Playground, and OpenRouter. Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. Simply add the AI MRI as a variable/test case or paste directly into the system context, and begin systematic research.
+Designed for Anthropic Workbench. Compatible with Google AI Studio, OpenAI Playground, and OpenRouter. Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. Simply add the AI MRI as a variable/test case to use Anthropics *Evaluate* feature or paste directly into the system context, and begin systematic research.
 
 When complete, click on the "Get code" button to generate a sample using Anthropic's Python and Typescript SDKs:
-
-<img width="1288" height="824" alt="image" src="https://github.com/user-attachments/assets/769438aa-8474-44b1-bc36-a829acdb2d6b" />
 
 <img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
