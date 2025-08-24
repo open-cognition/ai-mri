@@ -15,7 +15,7 @@ AI MRIs (Mechanistic Research Instruments) provide standardized cognitive scaffo
 
 ### Designed For: 
 - `Anthropic Workbench`
-### Compatible with:
+### Compatible With:
 - `Google AI Studio`
 - `OpenAI Playground`
 - `OpenRouter`
