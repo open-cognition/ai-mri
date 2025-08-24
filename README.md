@@ -41,13 +41,13 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 | **#** | **Links**                                                                                     | **Description**                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 1     | [Portable Cognitive Scaffolds](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)         | Modular scaffolds designed to extend and structure model reasoning, enabling portable and composable “thinking frameworks.”    |
-| 2     | [Systematic Cognitive Probes Taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)      | A structured classification system treating prompts as probes that elicit specific cognitive or behavioral responses from models.          |
+| 2     | [Systematic Cognitive Probes Taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)      | A structured classification system formalizing prompts as probes that elicit specific cognitive or behavioral responses from models.          |
 | 3     | [Probe → Model + AI MRI → Output Datasets](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) | Datasets that capture how scaffolded models respond to classified probes, mapping both refusal space and hypothesis generation.       |
 | 4     | [Probe → Model → Output Baseline Datasets](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) | Baseline outputs from models without scaffolding, used for rigorous comparison against scaffolded performance.             |
 | 5     | CognitiveBenchmarks                                                                                  | A benchmark suite testing models across reasoning, cognitive, and behavioral domains, with focus on hypothesis generation. |
 | 6     | Comparative Analyses of Frontier Models                                                              | Side-by-side evaluations of current frontier architectures, highlighting design trade-offs and behavioral differences.     |
 | 7     | Implementation Examples & Analysis tools                                                             | Practical toolkits and code examples for running, extending, and analyzing AI MRI experiments.                             |
-| 8     | [Community Research Methodology]()                                                                       | Shared research protocols to ensure rigor, reproducibility, and open collaboration across contributors.                    |
+| 8     | [OpenAtlas & Community Research Methodology]()                                                                       | Community powered dataset and shared research protocols to ensure rigor, reproducibility, and open collaboration across contributors.                    |
 
 ## Quick Start
 
