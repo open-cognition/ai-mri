@@ -20,6 +20,25 @@ AI MRIs (Mechanistic Research Instruments) provide standardized cognitive scaffo
 - `OpenAI Playground`
 - `OpenRouter`
   
+
+## Anthropic Workbench 
+
+https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
+
+
+When complete, click on the "Get code" button to generate a sample using Anthropic's SDKs:
+
+<img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
+
+## Google AI Studio
+
+
+https://github.com/user-attachments/assets/b8a1989f-9b2c-4c84-a6a2-13864cb5f75a
+
+
+
+## OpenAI Playground 
+
 ## **Science Development Kit (SDK)**
 > In Development
 
@@ -35,28 +54,13 @@ AI MRIs (Mechanistic Research Instruments) provide standardized cognitive scaffo
 | 6     | Comparative Analyses of Frontier Models                                                              | Side-by-side evaluations of current frontier architectures, highlighting design trade-offs and behavioral differences.     |
 | 7     | Implementation Examples & Analysis tools                                                             | Practical toolkits and code examples for running, extending, and analyzing AI MRI experiments.                             |
 | 8     | OpenAtlas                                                                       | Community powered dataset and shared research protocols to ensure rigor, reproducibility, and open collaboration across contributors.                    |
-| 9     | Dashboard                                                                       | Open source dashboard and atlas mapping and visualizing model refusals and hypotheses across domains |
+| 9     | OpenDash                                                                       | Open source dashboard and atlas mapping and visualizing model behaviors, refusals, and hypotheses across domains |
 
 
 Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
 
 1. Simply copy an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) and add it as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the context window to use with most providers.
 2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. 
-
-
-## Anthropic Workbench 
-
-https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
-
-
-When complete, click on the "Get code" button to generate a sample using Anthropic's SDKs:
-
-<img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
-
-## Google AI Studio
-
-
-## OpenAI Playground 
 
 
 ## Quick Start
