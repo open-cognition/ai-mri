@@ -17,7 +17,7 @@ The AI MRI provides standardized cognitive scaffolds implemented as modular code
 
 Begin with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own. 
 
-Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. Simply add an [AI MRI](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) as a variable/test case to use Anthropic`s *Evaluate* feature or paste directly into the system context and begin systematic research.
+Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. Simply add an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) as a variable/test case to use Anthropic`s *Evaluate* feature or paste directly into the system context to begin systematic research.
 
 When complete, click on the "Get code" button to generate a sample using Anthropic's Python and Typescript SDKs:
 
@@ -33,8 +33,8 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 2. [Systematic cognitive probe taxonomy](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)
 3. [Datasets of `[Probe → Model + AI MRI → Output]` mapping the hypotheses space of large language models](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
 4. [Datasets of `[Probe → Model → Output]` of model baselines (without scaffold) for rigorous comparative analysis](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
-5. Cognitive benchmarks testing hypotheses generation capabilities
-6. Comparative analyses of live frontier model architectures.
+5. CognitiveBenchmarks testing model cognitive and behavioral domains and hypotheses generation capabilities
+6. Comparative analyses of live frontier model architectures
 7. Implementation examples and analysis tools
 8. Community research methodology
 
