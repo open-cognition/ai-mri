@@ -4,6 +4,9 @@
 [![Research Status](https://img.shields.io/badge/status-Research--Preview-orange.svg)]()
 
 **Democratizing AI interpretability research through portable cognitive scaffolds**
+> [!IMPORTANT]
+>
+> In Research Preview. All outputs are hypotheticals requiring mechanistic validation.
 
 ## Overview
 
@@ -24,7 +27,7 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 <img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
 
-### **An Experimental Science Development Kit (SDK) for Bridging Model Behavior & Mechanistic Validation (Research Preview)**
+### **An Experimental Science Development Kit (SDK) for Bridging Model Behavior & Mechanistic Validation**
 
 **Mission:** Enable any researcher to participate in AI behavioral and cognitive research, regardless of resources or institutional access.
 
