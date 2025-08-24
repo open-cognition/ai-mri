@@ -42,7 +42,7 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 ### Copy and Use
 ```bash
 # No installation required
-system-prompts/ai-mri-lite-v2.4.md
+scaffolds/ai-mri-lite-v2.4.md
 ```
 
 ### Anthropic API Integration
