@@ -27,13 +27,14 @@ When complete, click on the "Get code" button to generate a sample using Anthrop
 ### **An Experimental Science Development Kit (SDK) for Bridging Model Behavior & Mechanistic Validation (Research Preview)**
 
 **Core Components (Under Construction):**
-1. Portable cognitive scaffolds 
-2. Systematic cognitive probe taxonomy
-3. Datasets of `[Probe → Model + AI MRI → Output]`
-4. Cognitive benchmarks testing hypotheses generation capabilities
-5. Comparative analyses of live frontier model architectures.
-6. Implementation examples and analysis tools
-7. Community research methodology
+1. [Portable cognitive scaffolds](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)
+2. [Systematic cognitive probe taxonomy](https://docs.google.com/spreadsheets/d/e/2PACX-1vQRi31pFAZxFW23spQDsHcGvDDWAbNRDID8sQWtkBwld2XJxq1NrmNwtZ2JjJ48TB3z46G-oNwcR1NQ/pubhtml)
+3. [Datasets of `[Probe → Model + AI MRI → Output]` mapping the hypotheses space of large language models]()
+4. Datasets of `[Probe → Model → Output]` of standard baselines for rigorous comparative analysis
+5. Cognitive benchmarks testing hypotheses generation capabilities
+6. Comparative analyses of live frontier model architectures.
+7. Implementation examples and analysis tools
+8. Community research methodology
 
 **Mission:** Enable any researcher to participate in AI cognitive research, regardless of resources or institutional access.
 
@@ -138,6 +139,10 @@ We position ourselves as community cartographers: providing maps (probe taxonomy
 
 **Community Development**: We invite systematic participation, critical evaluation, and collaborative extension of these methodological foundations.
 
+## Future Directions and Visions
+**`OpenAtlas`**
+* **Function:** Large-scale, open-source datasets of `[Probe → Model + AI MRI → Output]`
+* Scale `CognitiveBenchmarks` 
 
 ## Contributing
 
