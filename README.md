@@ -4,6 +4,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research Status](https://img.shields.io/badge/status-Research--Preview-orange.svg)]()
 
+<div align="center">
+
+**[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** | 
+
+</div>
+
 **Democratizing AI interpretability research through portable cognitive scaffolds and accessible methodology**
 > [!IMPORTANT]
 >
