@@ -7,7 +7,7 @@
 **Democratizing AI interpretability research through portable cognitive scaffolds**
 > [!IMPORTANT]
 >
-> In Research Preview. All outputs are hypotheticals requiring mechanistic validation.
+> In Research Preview. All outputs are research hypotheticals requiring mechanistic validation.
 
 ## Overview
 
