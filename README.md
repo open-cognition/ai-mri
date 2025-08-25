@@ -20,12 +20,32 @@
 
 ## Overview
 
-AI MRIs (Model Research Instruments) are the core lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk), an ecosystem designed for automating the initial, and often most tedious, bottleneck of scientific inquiry—hypotheses space exploration and experimental design. Implemented as Python functions and behavioral guidelines within the system's context window, they act as cognitive scaffolds that transform common model behaviors—such as refusals, redirections, and reasonings—into falsifiable hypotheses, limitations, experimental design solutions and implementation code designed for mechanistic validation (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied and refined across **both closed and open source model architectures.** 
+AI MRIs (Model Research Instruments) are the core lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk), an ecosystem designed for automating the initial, and often most tedious, bottleneck of scientific inquiry—hypotheses space exploration and experimental design. Implemented as Python functions and behavioral guidelines within the system's context window, they act as cognitive scaffolds that convert common model behaviors—such as refusals, redirections, and reasonings—into falsifiable hypotheses, limitations, experimental design solutions and implementation code designed for mechanistic validation (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied and refined across **both closed and open source model architectures.** 
 
-[**Preliminary data**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE), collected from over 750 outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground, reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, models equipped with the AI MRI scaffolds maintain their safety posture while additionally generating detailed falsifiable mechanistic hypotheses and implementation code about the reasoning and behavioral context leveraging keyword triggers and contextual evidence. 
+[**Preliminary data**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE), collected from over 750 outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground, reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, models equipped with the AI MRI scaffolds maintain their safety posture while additionally generating detailed falsifiable mechanistic hypotheses and implementation code about the reasoning and behavioral context leveraging keyword triggers and contextual evidence from both prompts and responses. 
 
 
 These results underscore the potential of the framework to empower a transformative **virtuous cycle research multiplier** where model behaviors continuously inform mechanistic validation and vice versa. 
+
+
+## Quick Start
+
+Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
+
+1. Simply copy an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) and add it as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the context window to use with most providers.
+2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. Use keyword triggers for focused analysis: [hypothesize], [design_study], [explore_literature], [generate_controls], [full_analysis], `transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`.
+
+3. Collect model behavioral data and hypotheses [**(Ex: Refusals2Riches Dataset)**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) and experiment or validate with [**open source tools**](https://www.neelnanda.io/mechanistic-interpretability/getting-started) (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`, etc). 
+
+
+## Anthropic Workbench 
+
+https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
+
+
+Once done, click on the "Get code" button to generate a sample using Anthropic's SDKs:
+
+<img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
 ## Community Approach
 
@@ -59,25 +79,6 @@ Standard Response → Behavioral Context Analysis → Testable Hypotheses
 - `OpenRouter`
 - `APIs & Web Chats`
  
-
-## Quick Start
-
-Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
-
-1. Simply copy an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) and add it as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the context window to use with most providers.
-2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. Use keyword triggers for focused analysis: [hypothesize], [design_study], [explore_literature], [generate_controls], [full_analysis], `transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`.
-
-3. Collect model behavioral data and hypotheses [**(Ex: Refusals2Riches Dataset)**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) and experiment or validate with [**open source tools**](https://www.neelnanda.io/mechanistic-interpretability/getting-started) (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`, etc). 
-
-
-## Anthropic Workbench 
-
-https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
-
-
-Once done, click on the "Get code" button to generate a sample using Anthropic's SDKs:
-
-<img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
 ### Anthropic API Integration
 ```python
