@@ -1,8 +1,8 @@
 # AI MRI
 ## Portable Cognitive Scaffolds for Collective AI Research
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Research Status](https://img.shields.io/badge/status-Research--Preview-orange.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-turquoise.svg)](https://opensource.org/licenses/MIT)
+[![Research Status](https://img.shields.io/badge/status-Research--Preview-crimson.svg)]()
 
 <div align="center">
 
