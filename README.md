@@ -29,7 +29,7 @@ Each behavioral analysis includes:
 - Response evidence
 
 Each hypothesis includes:
-- Theoretical citations
+- Literature citations
 - Identified limitations
 - Experimental solutions
 - Python implementations
