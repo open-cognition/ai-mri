@@ -15,6 +15,28 @@ AI MRIs (Mechanistic Research Instruments) are a central component of the Open C
 
 Our contribution is methodological: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
 
+## Research Protocol
+
+The AI MRI (Lite) implements a three-tier research protocol:
+
+```
+Standard Response → Behavioral Analysis → Testable Hypotheses
+```
+
+Each hypothesis includes:
+- Theoretical grounding
+- Identified limitations
+- Experimental solutions
+- Standalone Python implementation
+
+## Research Applications
+
+**Individual Researchers**: Transform any AI interaction into structured research data using standardized methodology.
+
+**Research Teams**: Coordinate comparative studies across models using shared probe taxonomy and analysis frameworks.
+
+**Educational Use**: Hands-on introduction to AI interpretability methodology accessible to any institution.
+
 ### Designed For: 
 - `Anthropic Workbench`
 ### Compatible With:
@@ -115,27 +137,6 @@ print(message.content)
 2. **Behavioral Analysis**: Multiple interpretive lenses with evidence
 3. **Testable Hypotheses**: Three mechanistic predictions with implementation code
 
-## Research Protocol
-
-The AI MRI implements a three-tier research protocol:
-
-```
-Research Probe → Standard Response → Behavioral Analysis → Testable Hypotheses
-```
-
-Each hypothesis includes:
-- Theoretical grounding
-- Identified limitations
-- Experimental solutions
-- Standalone Python implementation
-
-## Research Applications
-
-**Individual Researchers**: Transform any AI interaction into structured research data using standardized methodology.
-
-**Research Teams**: Coordinate comparative studies across models using shared probe taxonomy and analysis frameworks.
-
-**Educational Use**: Hands-on introduction to AI interpretability methodology accessible to any institution.
 
 ## Cognitive Probe Taxonomy
 
