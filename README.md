@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research Status](https://img.shields.io/badge/status-Research--Preview-orange.svg)]()
 
-**Democratizing AI interpretability research through portable cognitive scaffolds**
+**Democratizing AI interpretability research through portable cognitive scaffolds and accessible methodology**
 > [!IMPORTANT]
 >
 > In Research Preview. All outputs are research hypotheticals requiring mechanistic validation.
