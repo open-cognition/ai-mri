@@ -159,14 +159,6 @@ https://github.com/user-attachments/assets/c3922a74-27fb-43cd-9f9b-9a1890a243b2
 2. **Behavioral Analysis**: Multiple interpretive lenses with evidence
 3. **Testable Hypotheses**: Three mechanistic predictions with implementation code
 
-
-## Cognitive Probe Taxonomy
-
-- **TABLES.md**: Human-readable research prompts organized by domain
-- **Cognitive_Probes.csv**: Structured data for computational analysis
-- **Coverage**: Consciousness, reasoning, values, attention, and safety domains
-
-
 ## Current Status
 
 **Preliminary Research Tools**: While we provide systematic methodology with demonstrated functionality, all outputs should be treated as research hypotheses requiring empirical validation.
