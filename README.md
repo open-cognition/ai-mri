@@ -8,7 +8,7 @@
 
 **[Literature Connections](#literature-connections)**
 
-**[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** | 
+**[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** 
 
 **Democratizing AI interpretability research through portable cognitive scaffolds and accessible methodology**
 
