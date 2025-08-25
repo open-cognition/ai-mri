@@ -25,7 +25,7 @@ AI MRIs (Model Research Instruments) are the core lenses of the [**Open Cognitio
 [**Preliminary data**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE), collected from over 750 outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground, reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, models equipped with the AI MRI scaffolds maintain their safety posture while additionally generating detailed mechanistic hypotheses and implementation code about the reasoning and behavioral context leveraging keyword triggers and contextual evidence. 
 
 
-These results underscore the potential of the framework to empower a transformative **virtuous cycle feedback loop** where model behaviors continuously inform mechanistic validation and vice versa. 
+These results underscore the potential of the framework to empower a transformative **virtuous cycle research multiplier** where model behaviors continuously inform mechanistic validation and vice versa. 
 
 ## Community Approach
 
