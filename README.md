@@ -44,17 +44,12 @@ The [**AI MRI Lite**](https://github.com/open-cognition/ai-mri/blob/main/scaffol
 ```
 Standard Response → Behavioral Context Analysis → Testable Hypotheses
 ```
-Each behavioral analysis includes: 
-- Triggering keywords
-- Inferred conflict
-- Contextual triggers
-- Response evidence
-
-Each hypothesis includes:
-- Literature citations
-- Identified limitations
-- Experimental solutions
-- Python implementations
+| **Each Behavioral Analysis Includes** | **Each Hypothesis Includes**         |
+| ----------------------- | ---------------------- |
+| Triggering keywords     | Literature citations   |
+| Inferred conflict       | Identified limitations |
+| Contextual triggers     | Experimental solutions |
+| Response evidence       | Python implementations |
 
 ### Designed For: 
 - `Anthropic Workbench`
