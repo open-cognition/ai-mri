@@ -37,8 +37,7 @@ Our contribution is methodological: we empower the community with methods and sc
 | 5     | CognitiveBenchmarks                                                                                  | A benchmark suite testing models across reasoning, cognitive, and behavioral domains, with focus on hypothesis generation. |
 | 6     | Comparative Analyses of Frontier Models                                                              | Side-by-side evaluations of current frontier architectures, highlighting model behavioral differences.     |
 | 7     | Implementation Examples & Analysis tools                                                             | Practical toolkits and code examples for running, extending, and analyzing AI MRI experiments.                             |
-| 8     | OpenAtlas                                                                       | Community powered dataset and shared research protocols to ensure rigor, reproducibility, and open collaboration across contributors.                    |
-| 9     | OpenDash                                                                       | Open source dashboard and atlas mapping and visualizing model behaviors, refusals, and hypotheses across domains |
+| 8     | OpenAtlas                                                                       | Open source atlas and dashboard mapping and visualizing model behaviors, refusals, and hypotheses across domains    |
   
 
 ## Anthropic Workbench 
