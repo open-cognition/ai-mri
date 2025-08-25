@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 >
-> **In Research Preview. We are intentional about this method as hypothesis generation and comparative behavioral analysis requiring community validation, not ground-truth mechanistic discovery.**
+> **!DISCLAIMER: In Research Preview. We are intentional about this method as hypothesis generation and comparative behavioral analysis requiring community validation, not ground-truth mechanistic discovery.**
 
 ## Overview
 
