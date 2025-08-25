@@ -34,6 +34,24 @@ Each hypothesis includes:
 - Experimental solutions
 - Python implementations
 
+### Designed For: 
+- `Anthropic Workbench`
+### Compatible With:
+- `Google AI Studio`
+- `OpenAI Playground`
+- `OpenRouter`
+- `APIs & Web Chats`
+
+## Anthropic Workbench 
+
+https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
+
+
+Once done, click on the "Get code" button to generate a sample using Anthropic's SDKs:
+
+<img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
+
+
 ## Research Applications
 
 **Individual Researchers**: Transform any AI interaction into structured research data using standardized methodology.
@@ -42,13 +60,6 @@ Each hypothesis includes:
 
 **Educational Use**: Hands-on introduction to AI interpretability methodology accessible to any institution.
 
-### Designed For: 
-- `Anthropic Workbench`
-### Compatible With:
-- `Google AI Studio`
-- `OpenAI Playground`
-- `OpenRouter`
-- `APIs & Web Chats`
 
 ## **Open Cognition Science Development Kit (SDK)**
 > In Development
@@ -75,14 +86,6 @@ Compile experimental designs and elicit hypothese directly from live frontier mo
 
 3. Collect model behavioral data and hypotheses [**(example dataset)**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) and validate with open source tools such as: `transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`. 
 
-## Anthropic Workbench 
-
-https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
-
-
-Once done, click on the "Get code" button to generate a sample using Anthropic's SDKs:
-
-<img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
 ## Google AI Studio
 
