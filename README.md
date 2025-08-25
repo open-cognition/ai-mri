@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## **[Literature Inspirations](#literature-inpsirations)**
+## **[Literature Inspirations](#literature-inspirations)**
 
 **[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** | 
 
