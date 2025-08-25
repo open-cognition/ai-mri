@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 >
-> In Research Preview. All outputs are research hypotheticals requiring mechanistic validation, not ground truth. 
+> In Research Preview. All AI MRI outputs are research hypotheticals requiring mechanistic validation, not ground truth. 
 
 ## Overview
 
