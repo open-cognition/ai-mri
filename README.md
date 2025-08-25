@@ -35,7 +35,7 @@ Our contribution is methodological: we empower the community with methods and sc
 | 4     | [Probe → Model → Output Baseline Datasets](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) | Baseline outputs from models without scaffolding, used for rigorous comparison against scaffolded performance.             |
 | 5     | CognitiveBenchmarks                                                                                  | A benchmark suite testing models across reasoning, cognitive, and behavioral domains, with focus on hypothesis generation. |
 | 6     | Comparative Analyses of Frontier Models                                                              | Side-by-side evaluations of current frontier architectures, highlighting model behavioral differences.     |
-| 7     | [Implementation Examples & Analysis tools](https://github.com/open-cognition/ai-mri)                                                             | Practical toolkits and code examples for running, extending, and analyzing AI MRI experiments.                             |
+| 7     | [Implementation Examples & Analysis tools](https://github.com/open-cognition/ai-mri)                                                             | Practical toolkits and examples for running, extending, and analyzing AI MRI experiments.                             |
 | 8     | OpenAtlas                                                                       | Open source atlas and dashboard mapping and visualizing model behaviors, refusals, and hypotheses across domains    |
   
 
