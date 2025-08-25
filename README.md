@@ -11,7 +11,7 @@
 
 ## Overview
 
-AI MRIs (Mechanistic Research Instruments) are part of the Open Cognition Science Development Kit (SDK) and provide standardized cognitive scaffolds implemented as modular code blocks and behavioral guidelines in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities across both closed and open source model architectures. 
+AI MRIs (Mechanistic Research Instruments) are central to the Open Cognition Science Development Kit (SDK) and provide standardized cognitive scaffolds implemented as modular code blocks and behavioral guidelines in system context window that transform AI behaviors such as refusals, redirections, and reasonings into systematic research opportunities across both closed and open source model architectures. 
 
 Our contribution is methodological: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
 
