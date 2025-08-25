@@ -22,7 +22,7 @@ AI MRIs (Mechanistic Research Instruments) are the central lenses of the [**Open
 
 [**Preliminary data**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE), collected from over 375 outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground, reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, models equipped with the AI MRI scaffold maintain their safety posture while additionally generating detailed mechanistic hypotheses about their own processes.
 
-Our contribution is methodological: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
+Our aim in contribution is one of methodology: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
 
 ## Research Protocol
 
