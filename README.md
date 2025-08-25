@@ -27,6 +27,15 @@ AI MRIs (Model Research Instruments) are the core lenses of the [**Open Cognitio
 
 These results underscore the potential of the framework to empower a transformative **virtuous cycle research multiplier** where model behaviors continuously inform mechanistic validation and vice versa. 
 
+## Community Approach
+
+Our aim in contribution is one of methodology: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
+
+We are inspired by the vision of community cartographers: providing maps (probe taxonomy) and navigation tools (cognitive scaffolds) while empowering researchers to explore and publish findings.
+
+**Questions Over Conclusions**: Our outputs emphasizes research questions and systematic tools for investigation rather than predetermined conclusions.
+
+**Intellectual Honesty**: We are intentional about this work as hypothesis generation and comparative behavioral analysis requiring community validation, not ground-truth mechanistic discovery.
 
 ## Quick Start
 
@@ -46,16 +55,6 @@ https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
 Once done, click on the "Get code" button to generate a sample using Anthropic's SDKs:
 
 <img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
-
-## Community Approach
-
-Our aim in contribution is one of methodology: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
-
-We are inspired by the vision of community cartographers: providing maps (probe taxonomy) and navigation tools (cognitive scaffolds) while empowering researchers to explore and publish findings.
-
-**Questions Over Conclusions**: Our outputs emphasizes research questions and systematic tools for investigation rather than predetermined conclusions.
-
-**Intellectual Honesty**: We are intentional about this work as hypothesis generation and comparative behavioral analysis requiring community validation, not ground-truth mechanistic discovery.
 
 ## Research Protocol
 
