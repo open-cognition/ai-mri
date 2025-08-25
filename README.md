@@ -22,12 +22,17 @@ The AI MRI (Lite) implements a three-tier research protocol:
 ```
 Standard Response → Behavioral Analysis → Testable Hypotheses
 ```
+Each behavioral analysis includes: 
+- Triggering keywords
+- Inferred conflict
+- Contextual triggers
+- Response evidence
 
 Each hypothesis includes:
-- Theoretical grounding
+- Theoretical citations
 - Identified limitations
 - Experimental solutions
-- Standalone Python implementation
+- Python implementations
 
 ## Research Applications
 
