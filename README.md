@@ -38,6 +38,10 @@ Our contribution is methodological: we empower the community with methods and sc
 | 7     | [Implementation Examples & Analysis tools](https://github.com/open-cognition/ai-mri)                                                             | Practical toolkits and examples for running, extending, and analyzing AI MRI experiments.                             |
 | 8     | OpenAtlas                                                                       | Open source atlas and dashboard mapping and visualizing model behaviors, refusals, and hypotheses across domains    |
   
+Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
+
+1. Simply copy an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) and add it as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the context window to use with most providers.
+2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. 
 
 ## Anthropic Workbench 
 
@@ -57,13 +61,8 @@ https://github.com/user-attachments/assets/b8a1989f-9b2c-4c84-a6a2-13864cb5f75a
 
 ## OpenAI Playground 
 
+https://github.com/user-attachments/assets/c3922a74-27fb-43cd-9f9b-9a1890a243b2
 
-
-
-Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
-
-1. Simply copy an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) and add it as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the context window to use with most providers.
-2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. 
 
 
 ## Quick Start
