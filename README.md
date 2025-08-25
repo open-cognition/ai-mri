@@ -41,7 +41,9 @@ Our contribution is methodological: we empower the community with methods and sc
 Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
 
 1. Simply copy an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) and add it as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the context window to use with most providers.
-2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. 
+2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. Use keyword triggers for focused analysis: [hypothesize], [design_study], [explore_literature], [generate_controls], [full_analysis].
+
+3. Collect model behavioral data and hypotheses [**(example dataset)**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) and validate with open source tools such as: `transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`. 
 
 ## Anthropic Workbench 
 
