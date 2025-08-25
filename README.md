@@ -198,6 +198,7 @@ See `CONTRIBUTING.md` for detailed guidelines.
 - Framework tested primarily on Claude, ChatGPT, and Gemini architectures
 - Community validation of generated hypotheses needed
 - Virtuous cycle research multiplier requires community empowerment
+- Inversion of hypotheses bottleneck may result in hypotheses surplus
 - Must be actively updated
 
 ## License
