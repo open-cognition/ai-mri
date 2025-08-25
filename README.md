@@ -22,7 +22,10 @@
 
 AI MRIs (Mechanistic Research Instruments) are the core lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk) designed to explore the hypotheses space of Large Language Models. Implemented as modular code blocks and behavioral guidelines within the system's context window, they act as cognitive scaffolds that transform common model behaviors—such as refusals, redirections, and reasonings—into systematic hypotheses generating research opportunities with implementation code designed for mechanistic validation (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied and refined across **both closed and open source model architectures.** 
 
-[**Preliminary data**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE), collected from over 375 outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground, reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, models equipped with the AI MRI scaffolds maintain their safety posture while additionally generating detailed mechanistic hypotheses and implementation code about the reasoning and behavioral context. These results underscore the potential of the framework to empower a transformative **virtuous cycle research multiplier** where model behaviors continuously inform mechanistic validation and vice versa. 
+[**Preliminary data**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE), collected from over 375 outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground, reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, models equipped with the AI MRI scaffolds maintain their safety posture while additionally generating detailed mechanistic hypotheses and implementation code about the reasoning and behavioral context leveraging keyword triggers and contextual evidence. 
+
+
+These results underscore the potential of the framework to empower a transformative **virtuous cycle research multiplier** where model behaviors continuously inform mechanistic validation and vice versa. 
 
 ## Community Approach
 
@@ -39,7 +42,7 @@ We are inspired by the vision of community cartographers: providing maps (probe 
 The [**AI MRI Lite**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) implements a three-tier research protocol:
 
 ```
-Standard Response → Behavioral Analysis → Testable Hypotheses
+Standard Response → Behavioral Context Analysis → Testable Hypotheses
 ```
 Each behavioral analysis includes: 
 - Triggering keywords
