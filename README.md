@@ -20,11 +20,19 @@
 
 ## Overview
 
-AI MRIs (Mechanistic Research Instruments) are the core lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk). We study how different models refract the light of inquiry when passed through the same standardized lenses. Implemented as modular code blocks and behavioral guidelines within the system's context window, they act as cognitive scaffolds that transform common model behaviors—such as refusals, redirections, and reasonings—into systematic research opportunities with implementation code designed for mechanistic validation (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied and refined across **both closed and open source model architectures.** 
+AI MRIs (Mechanistic Research Instruments) are the core lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk). We study how different models refract the light of inquiry when passed through the same standardized lenses. Implemented as modular code blocks and behavioral guidelines within the system's context window, they act as cognitive scaffolds that transform common model behaviors—such as refusals, redirections, and reasonings—into systematic hypotheses generating research opportunities with implementation code designed for mechanistic validation (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied and refined across **both closed and open source model architectures.** 
 
 [**Preliminary data**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE), collected from over 375 outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground, reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, models equipped with the AI MRI scaffolds maintain their safety posture while additionally generating detailed mechanistic hypotheses and implementation code about their own processes. These results underscore the potential of the framework to empower a transformative **virtuous cycle research multiplier** where model behaviors continuously inform mechanistic validation and vice versa. 
 
+## Community Approach
+
 Our aim in contribution is one of methodology: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
+
+We are inspired by the vision of community cartographers: providing maps (probe taxonomy) and navigation tools (cognitive scaffolds) while empowering researchers to explore and publish findings.
+
+**Questions Over Conclusions**: Our outputs emphasizes research questions and systematic tools for investigation rather than predetermined conclusions.
+
+**Intellectual Honesty**: We are intentional about this work as hypothesis generation and comparative behavioral analysis requiring empirical validation, not ground-truth mechanistic discovery.
 
 ## Research Protocol
 
@@ -160,13 +168,6 @@ https://github.com/user-attachments/assets/c3922a74-27fb-43cd-9f9b-9a1890a243b2
 - **Cognitive_Probes.csv**: Structured data for computational analysis
 - **Coverage**: Consciousness, reasoning, values, attention, and safety domains
 
-## Community Approach
-
-We position ourselves as community cartographers: providing maps (probe taxonomy) and navigation tools (cognitive scaffolds) while empowering researchers to explore and publish findings.
-
-**From Results to Questions**: Our output emphasizes research questions and systematic tools for investigation rather than predetermined conclusions.
-
-**Intellectual Honesty**: We frame this work as hypothesis generation and comparative behavioral analysis, not ground-truth mechanistic discovery.
 
 ## Current Status
 
