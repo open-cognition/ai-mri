@@ -63,7 +63,9 @@ Each hypothesis includes:
 | 5     | CognitiveBenchmarks                                                                                  | A benchmark suite testing models across reasoning, cognitive, and behavioral domains, with focus on hypothesis generation. |
 | 6     | Comparative Analyses of Frontier Models                                                              | Side-by-side evaluations of current frontier architectures, highlighting model behavioral differences.     |
 | 7     | [Implementation Examples & Analysis tools](https://github.com/open-cognition/ai-mri)                                                             | Practical toolkits and examples for running, extending, and analyzing AI MRI experiments.                             |
-| 8     | OpenAtlas                                                                       | Open source atlas and dashboard mapping and visualizing model behaviors, refusals, and hypotheses across domains    |
+| 8     | OpenAtlas                                                                       | Open source atlas and dashboard mapping and visualizing model behaviors, refusals, and hypotheses across domains.    |
+| 9     | Discover                                                                      | Open source reinforcement learning environment training agents to optimize towards high signal and mechanistically validated model behavior interpretations, hypotheses generation, and research discovery.    |
+
   
 Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
 
