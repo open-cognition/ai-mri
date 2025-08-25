@@ -22,7 +22,6 @@ Our contribution is methodological: we empower the community with methods and sc
 - `OpenAI Playground`
 - `OpenRouter`
 
-
 ## **Open Cognition Science Development Kit (SDK)**
 > In Development
 
