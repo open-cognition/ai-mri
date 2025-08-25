@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 >
-> In Research Preview. All AI MRI outputs are research hypotheticals requiring mechanistic validation, not ground truth. 
+> In Research Preview. We are intentional about this method as hypothesis generation and comparative behavioral analysis requiring community validation, not ground-truth mechanistic discovery.
 
 ## Overview
 
