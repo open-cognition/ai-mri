@@ -54,12 +54,6 @@ Each hypothesis includes:
 
 ## Quick Start
 
-### Copy and Use
-```bash
-# No installation required
-scaffolds/ai-mri-lite-v2.4.md
-```
-
 Compile experimental designs and elicit hypothese directly from live frontier models with chat or API-level access. 
 
 1. Simply copy an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) and add it as a variable/test case to use Anthropic's *Evaluate* feature or paste directly into the context window to use with most providers.
