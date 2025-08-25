@@ -6,6 +6,8 @@
 
 <div align="center">
 
+## **[Literature Inspirations](#literature-inpsirations)**
+
 **[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** | 
 
 **Democratizing AI interpretability research through portable cognitive scaffolds and accessible methodology**
@@ -193,6 +195,11 @@ See `CONTRIBUTING.md` for detailed guidelines.
   url={https://github.com/open-cognition/ai-mri}
 }
 ```
+## Literature Inspirations
+- [Learning without training: The implicit dynamics of in-context learning — Google Research](https://arxiv.org/pdf/2507.16003)
+- [Eliciting Reasoning in Language Models with Cognitive Tools — IBM Research](https://arxiv.org/pdf/2506.12115)
+- [Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models — Princeton ICML 2025](https://arxiv.org/pdf/2502.20332)
+- [A Survey of Context Engineering for Large Language Models — Tsinghua University](https://arxiv.org/pdf/2507.13334)
 
 ## Limitations
 
