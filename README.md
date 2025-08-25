@@ -11,7 +11,7 @@
 
 ## Overview
 
-AI MRIs (Mechanistic Research Instruments) are the lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk) and our science is the study of how how different models refract the light of inquiry when passed through that same standardized lens. Implemented as modular code blocks and behavioral guidelines within the system's context window, they act as cognitive scaffolds that transform common AI behaviors—such as refusals, redirections, and reasonings—into systematic research opportunities with implementation code that can be studied across **both closed and open-source model architectures.**
+AI MRIs (Mechanistic Research Instruments) are the lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk) and our science is the study of how how different models refract the light of inquiry when passed through that same standardized lens. Implemented as modular code blocks and behavioral guidelines within the system's context window, they act as cognitive scaffolds that transform common AI behaviors—such as refusals, redirections, and reasonings—into systematic research opportunities with implementation code (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied across **both closed and open-source model architectures.**
 
 Our contribution is methodological: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
 
@@ -197,7 +197,7 @@ See `CONTRIBUTING.md` for detailed guidelines.
 - Scaffolded cognition behavior vs model behavior for comparative analysis
 - Framework tested primarily on Claude, ChatGPT, and Gemini architectures
 - Community validation of generated hypotheses needed
-- Requires community empowerment
+- Virtuous cycle research multiplier requires community empowerment
 - Must be actively updated
 
 ## License
