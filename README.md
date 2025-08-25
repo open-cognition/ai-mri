@@ -35,7 +35,7 @@ We are inspired by the vision of community cartographers: providing maps (probe 
 
 **Questions Over Conclusions**: Our outputs emphasizes research questions and systematic tools for investigation rather than predetermined conclusions.
 
-**Intellectual Honesty**: We are intentional about this work as hypothesis generation and comparative behavioral analysis requiring empirical validation, not ground-truth mechanistic discovery.
+**Intellectual Honesty**: We are intentional about this work as hypothesis generation and comparative behavioral analysis requiring community validation, not ground-truth mechanistic discovery.
 
 ## Research Protocol
 
