@@ -130,7 +130,7 @@ print(message.content)
 | 6     | **Comparative Analyses of Frontier Models**                                                              | Side-by-side evaluations of current frontier architectures, highlighting model behavioral differences.     |
 | 7     | [**Implementation Examples & Analysis tools**](https://github.com/open-cognition/ai-mri)                                                             | Practical toolkits and examples for running, extending, and analyzing AI MRI experiments.                             |
 | 8     | **OpenAtlas**                                                                       | Open source atlas and dashboard mapping and visualizing model behaviors, refusals, and hypotheses across domains.    |
-| 9     | **Devs**                                                                      | Open source reinforcement learning environment training agents to optimize towards high signal and mechanistically validated model behavior interpretations, hypotheses generation, and research discovery.    |
+| 9     | **Devs**                                                                      | Open source reinforcement learning environment training agents to optimize towards higher signal and mechanistically validated model behavioral interpretations, hypotheses generation, and research discovery.    |
 
 
 ## Google AI Studio
