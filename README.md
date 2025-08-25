@@ -17,7 +17,7 @@ Our contribution is methodological: we empower the community with methods and sc
 
 ## Research Protocol
 
-The AI MRI (Lite) implements a three-tier research protocol:
+The AI MRI Lite implements a three-tier research protocol:
 
 ```
 Standard Response → Behavioral Analysis → Testable Hypotheses
@@ -48,6 +48,7 @@ Each hypothesis includes:
 - `Google AI Studio`
 - `OpenAI Playground`
 - `OpenRouter`
+- `APIs & Web Chats`
 
 ## **Open Cognition Science Development Kit (SDK)**
 > In Development
