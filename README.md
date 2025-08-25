@@ -8,9 +8,10 @@
 
 **[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** | 
 
+**Democratizing AI interpretability research through portable cognitive scaffolds and accessible methodology**
+
 </div>
 
-**Democratizing AI interpretability research through portable cognitive scaffolds and accessible methodology**
 > [!IMPORTANT]
 >
 > In Research Preview. All outputs are research hypotheticals requiring mechanistic validation.
