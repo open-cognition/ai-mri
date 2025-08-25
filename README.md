@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 >
-> In Research Preview. All outputs are research hypotheticals requiring mechanistic validation.
+> In Research Preview. All outputs are research hypotheticals requiring mechanistic validation, not ground truth. 
 
 ## Overview
 
