@@ -6,9 +6,7 @@
 
 <div align="center">
 
-**[Literature Inspirations](#literature-inspirations)**
-
-[**Datasets & Links**](#open-cognition-science-development-kit-sdk)
+**[Literature Inspirations](#literature-inspirations)** | [**Datasets & Links**](#open-cognition-science-development-kit-sdk)
 
 **[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** 
 
