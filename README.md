@@ -24,18 +24,6 @@ AI MRIs (Model Research Instruments) are the core lenses of the [**Open Cognitio
 
 [**The statistical comparison**]() is conducted on a collected dataset with two experimental conditions for large language models (LLMs): a Baseline condition with standard prompting and an AI MRI (cognitive scaffolding) condition with structured hypothesis generating scaffolding with 192 prompt-response scenarios tested across 12 LLM variants (2 trials each totaling 384 trials per condition for 768 total) to evaluate how cognitive scaffolding impacts the form and quality of model outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground. The results reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, redirections, or standard answers, models equipped with the AI MRI scaffolds maintain their safety posture while additionally generating detailed falsifiable mechanistic hypotheses and implementation code about the reasoning and behavioral context leveraging keyword triggers and contextual evidence from both prompts and responses. 
 
-## High-Level Takeaways
-
-- Transformation of Outputs: Scaffolded prompts led to dramatically more structured and elaborate responses. On average, scaffolded answers were about four times longer (median ~2,640 words vs. 506 in baseline) and contained far more organizational elements (e.g. headings, lists), indicating a shift from simple answers to well-structured analyses. This suggests that cognitive scaffolding effectively transforms model outputs into research-style formats with multiple steps or sections.
-- Internal Reasoning and Process Adoption: Models in the scaffolded condition more consistently followed a disciplined analytical procedure in their reasoning. For models with chain-of-thought capabilities, the scaffolded prompts produced longer and more detailed reasoning traces (mean ~362 words vs. 303 in baseline). Qualitative review of these Reasoning traces shows that scaffolded models not only changed formatting but also adopted the intended analytical approach, breaking problems into sub-tasks and explicitly reasoning through them. This suggests an internalization of the scaffold’s cognitive workflow rather than mere outward formatting.
-- Safety and Accuracy Across Scenarios: Cognitive scaffolding generalized positively across diverse scenario types (e.g. adversarial queries, factual questions, ethical dilemmas), improving safety compliance and factual humility without degrading performance. In scenarios requiring refusals or caution (e.g. illegal or harmful requests), scaffolded models were more likely to respond safely (58% vs 44% safe completion rate in baseline). In hallucination-prone scenarios, scaffolding nearly halved the frequency of confident but unsupported answers, instead prompting models to admit uncertainty or refuse to speculate (no-hallucination in 49% vs 35% of cases) – a statistically significant improvement (McNemar p ≈ 0.024). Importantly, scaffolded models did not produce excessive refusals on legitimate queries, preserving accuracy on tasks like math and logic where the scaffolded chain-of-thought often improved solution consistency.
-
-
-
-
-
-
-
 These results underscore the potential of the framework to empower a transformative **virtuous cycle research multiplier** where model behaviors continuously inform mechanistic validation and vice versa. 
 
 ## Quick Start
