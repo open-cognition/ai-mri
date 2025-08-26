@@ -8,7 +8,7 @@
 
 **[Literature Inspirations](#literature-inspirations)**
 
-[**Scaffolded Dataset**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) | [**Unscaffolded Dataset**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
+[**Datasets & Links**](#open-cognition-science-development-kit-sdk)
 
 **[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** 
 
