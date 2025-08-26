@@ -8,6 +8,8 @@
 
 **[Literature Inspirations](#literature-inspirations)**
 
+[**Scaffolded Dataset**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) | [**Unscaffolded Dataset**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI)
+
 **[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** 
 
 **Democratizing AI interpretability research through portable cognitive scaffolds and accessible methodology**
@@ -144,7 +146,7 @@ print(message.content)
 | ----- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 1     | [**Portable Cognitive Scaffolds**](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)         | Modular scaffolds designed to extend and structure model reasoning, enabling portable and composable “thinking frameworks.”    |
 | 2     | [**Systematic Cognitive Probes Taxonomy**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)      | A structured contextual classification system formalizing prompts as probes that elicit specific cognitive or behavioral responses from models.          |
-| 3     | [**Probe → Model + AI MRI → Output Datasets**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) | Datasets that capture how scaffolded models respond to classified probes, mapping both refusal space and hypothesis generation.       |
+| 3     | [**Probe → Model + AI MRI → Output Scaffolded Datasets**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) | Datasets that capture how scaffolded models respond to classified probes, mapping both refusal space and hypothesis generation.       |
 | 4     | [**Probe → Model → Output Baseline Datasets**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) | Baseline outputs from models without scaffolding, used for rigorous comparison against scaffolded performance.             |
 | 5     | **CognitiveBenchmarks**                                                                                  | A benchmark suite testing models across reasoning, cognitive, and behavioral domains, with focus on predictive data and hypothesis generation. |
 | 6     | **Comparative Analyses of Frontier Models**                                                              | Side-by-side evaluations of current frontier architectures, highlighting model behavioral differences.     |
