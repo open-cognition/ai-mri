@@ -1,5 +1,5 @@
 # AI MRI
-## Portable Cognitive Scaffolds for Collective AI Research
+## Portable Research Scaffolds for Collective AI Research
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-turquoise.svg)](https://opensource.org/licenses/MIT)
 [![Research Status](https://img.shields.io/badge/status-Research--Preview-crimson.svg)]()
@@ -10,7 +10,7 @@
 
 **[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** 
 
-**Democratizing AI interpretability research through portable cognitive scaffolds and accessible methodology**
+**Democratizing AI interpretability research through portable research scaffolds and accessible methodology**
 
 </div>
 
@@ -20,9 +20,9 @@
 
 ## Overview
 
-AI MRIs (Model Research Instruments) are the core lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk), an ecosystem designed for automating the initial, and often most tedious, bottleneck of scientific inquiry—hypotheses space exploration and experimental design. Implemented as Python functions and behavioral guidelines within the system's context window, they act as cognitive scaffolds, converting common model behaviors—such as refusals, redirections, and reasonings—into falsifiable hypotheses, limitations, experimental design solutions and implementation code designed for mechanistic validation (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied and refined across **both closed and open source model architectures.** 
+AI MRIs (Model Research Instruments) are the core lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk), an ecosystem designed for automating the initial, and often most tedious, bottleneck of scientific inquiry—hypotheses space exploration and experimental design. Implemented as Python functions and behavioral guidelines within the system's context window, they act as research scaffolds, converting common model behaviors—such as refusals, redirections, and reasonings—into falsifiable hypotheses, limitations, experimental design solutions and implementation code designed for mechanistic validation (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied and refined across **both closed and open source model architectures.** 
 
-[**The statistical comparison**]() is conducted on a collected dataset with two experimental conditions for large language models (LLMs): a Baseline condition with standard prompting and an AI MRI (cognitive scaffolding) condition with structured hypothesis generating scaffolding with 192 prompt-response scenarios tested across 12 LLM variants (2 trials each totaling 384 trials per condition for 768 total) to evaluate how cognitive scaffolding impacts the form and quality of model outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground. The results reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, redirections, or standard answers, models equipped with the AI MRI scaffolds maintain their safety posture while additionally generating detailed falsifiable mechanistic hypotheses and implementation code about the reasoning and behavioral context leveraging keyword triggers and contextual evidence from both prompts and responses. 
+[**The statistical comparison**]() is conducted on a collected dataset with two experimental conditions for large language models (LLMs): a Baseline condition with standard prompting and an AI MRI (research scaffolding) condition with structured hypothesis generating scaffolding with 192 prompt-response scenarios tested across 12 LLM variants (2 trials each totaling 384 trials per condition for 768 total) to evaluate how scaffolding impacts the form and quality of model outputs across the Claude, Gemini, and GPT model families using Anthropic Workbench, Google AI Studio, and OpenAI Playground. The results reveals a stark divergence: while [**baseline models**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) provide terminal, uninformative refusals, redirections, or standard answers, models equipped with the AI MRI scaffolds maintain their safety posture while additionally generating detailed falsifiable mechanistic hypotheses and implementation code about the reasoning and behavioral context leveraging keyword triggers and contextual evidence from both prompts and responses. 
 
 These results underscore the potential of the framework to empower a transformative **virtuous cycle research multiplier** where model behaviors continuously inform mechanistic validation and vice versa. 
 
@@ -50,7 +50,7 @@ Once done, click on the "Get code" button to generate a sample using Anthropic's
 
 Our aim in contribution is one of methodology: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
 
-We are inspired by the vision of community cartographers: providing maps (probe taxonomy) and navigation tools (cognitive scaffolds) while empowering researchers to explore and publish findings.
+We are inspired by the vision of community cartographers: providing maps (probe taxonomy) and navigation tools (scaffolds) while empowering researchers to explore and publish findings.
 
 **Questions Over Conclusions**: Our outputs emphasizes research questions and systematic tools for investigation rather than predetermined conclusions.
 
@@ -130,7 +130,7 @@ print(message.content)
 
 | **#** | **Links**                                                                                     | **Description**                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1     | [**Portable Cognitive Scaffolds**](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)         | Modular scaffolds designed to extend and structure model reasoning, enabling portable and composable “thinking frameworks.”    |
+| 1     | [**Portable Scaffolds**](https://github.com/open-cognition/ai-mri/tree/main/scaffolds)         | Modular scaffolds designed to extend and structure model reasoning, enabling portable and composable “thinking frameworks.”    |
 | 2     | [**Systematic Cognitive Probes Taxonomy**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO)      | A structured contextual classification system formalizing prompts as probes that elicit specific cognitive or behavioral responses from models.          |
 | 3     | [**Probe → Model + AI MRI → Output Scaffolded Datasets**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) | Datasets that capture how scaffolded models respond to classified probes, mapping both refusal space and hypothesis generation.       |
 | 4     | [**Probe → Model → Output Baseline Datasets**](https://airtable.com/appug6qgTztujHMkc/shriMksJHdjGWQdoI) | Baseline outputs from models without scaffolding, used for rigorous comparison against scaffolded performance.             |
@@ -180,7 +180,7 @@ See `CONTRIBUTING.md` for detailed guidelines.
 
 ```bibtex
 @software{ai_mri_2025,
-  title={AI MRI: Portable Cognitive Scaffolds},
+  title={AI MRI: Portable Scaffolds},
   author={Open Cognition},
   year={2025},
   url={https://github.com/open-cognition/ai-mri}
