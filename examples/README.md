@@ -1,3 +1,3 @@
 # Example Outputs
 
-File Name: model + prompt name
+File Name: model + prompt used
