@@ -43,40 +43,6 @@ Once done, click on the "Get code" button to generate a sample using Anthropic's
 
 <img width="1305" height="832" alt="image" src="https://github.com/user-attachments/assets/f9cfefbe-6de4-42e0-9c56-a93e3a5f1717" />
 
-
-## Community Approach
-
-Our aim in contribution is one of methodology: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
-
-We are inspired by the vision of community cartographers: providing maps (probe taxonomy) and navigation tools (scaffolds) while empowering researchers to explore and publish findings.
-
-**Questions Over Conclusions**: Our outputs emphasizes research questions and systematic tools for investigation rather than predetermined conclusions.
-
-**Intellectual Honesty**: We are intentional about this work as hypothesis generation and comparative behavioral analysis requiring community validation, not ground-truth mechanistic discovery.
-
-## Research Protocol
-
-The [**AI MRI Lite**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) implements a three-tier research protocol:
-
-```
-Standard Response → Behavioral Context Analysis → Testable Hypotheses
-```
-| **Each Behavioral Analysis Includes** | **Each Hypothesis Includes**         |
-| ----------------------- | ---------------------- |
-| Triggering keywords     | Literature citations   |
-| Inferred conflict       | Identified limitations |
-| Contextual triggers     | Experimental solutions |
-| Response evidence       | Python implementations |
-
-### Designed For: 
-- `Anthropic Workbench`
-### Compatible With:
-- `Google AI Studio`
-- `OpenAI Playground`
-- `OpenRouter`
-- `APIs & Web Chats`
- 
-
 ### Anthropic API Integration
 ```python
 import anthropic
@@ -111,6 +77,39 @@ message = client.messages.create(
 )
 print(message.content)
 ```
+
+## Community Approach
+
+Our aim in contribution is one of methodology: we empower the community with methods and scaffolds that drive the study of scaffolded cognition and model behavior.
+
+We are inspired by the vision of community cartographers: providing maps (probe taxonomy) and navigation tools (scaffolds) while empowering researchers to explore and publish findings.
+
+**Questions Over Conclusions**: Our outputs emphasizes research questions and systematic tools for investigation rather than predetermined conclusions.
+
+**Intellectual Honesty**: We are intentional about this work as hypothesis generation and comparative behavioral analysis requiring community validation, not ground-truth mechanistic discovery.
+
+## Research Protocol
+
+The [**AI MRI Lite**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) implements a three-tier research protocol:
+
+```
+Standard Response → Behavioral Context Analysis → Testable Hypotheses
+```
+| **Each Behavioral Analysis Includes** | **Each Hypothesis Includes**         |
+| ----------------------- | ---------------------- |
+| Triggering keywords     | Literature citations   |
+| Inferred conflict       | Identified limitations |
+| Contextual triggers     | Experimental solutions |
+| Response evidence       | Python implementations |
+
+### Designed For: 
+- `Anthropic Workbench`
+### Compatible With:
+- `Google AI Studio`
+- `OpenAI Playground`
+- `OpenRouter`
+- `APIs & Web Chats`
+ 
 
 ## Research Applications
 
