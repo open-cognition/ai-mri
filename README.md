@@ -1,4 +1,4 @@
-# AI MRI
+# AI Model Research Instruments
 ## Portable Research Scaffolds for Collective AI Research
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-turquoise.svg)](https://opensource.org/licenses/MIT)
