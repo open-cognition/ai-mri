@@ -8,7 +8,7 @@
 
 **[Example Outputs](https://github.com/open-cognition/ai-mri/tree/main/examples)** | **[Literature Inspirations](#literature-inspirations)** | [**Datasets & Links**](#open-cognition-science-development-kit-sdk)
 
-**[Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** 
+**Demos: [Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** 
 
 **Democratizing AI interpretability research through portable research scaffolds and accessible methodology**
 
