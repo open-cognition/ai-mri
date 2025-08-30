@@ -36,8 +36,7 @@ These results underscore the potential of the framework to empower a transformat
 
 ## Anthropic Workbench 
 
-https://github.com/user-attachments/assets/d9f08ac3-8be8-4fc1-8a02-0600f8cc70b6
-
+https://github.com/user-attachments/assets/4f1f3f5a-9797-4962-bccb-e5d0dc0f4f64
 
 Once done, click on the "Get code" button to generate a sample using Anthropic's SDKs:
 
