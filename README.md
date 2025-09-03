@@ -12,6 +12,8 @@
 
 **Democratizing AI interpretability research through portable research scaffolds and accessible methodology**
 
+*A Behavioral Sciences Inspired Study*
+
 </div>
 
 > [!IMPORTANT]
@@ -20,7 +22,7 @@
 
 ## Overview
 
-AI MRIs (Model Research Instruments) are the core lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk), an ecosystem designed for automating the initial, and often most tedious, bottleneck of scientific inquiry—hypotheses space exploration and experimental design. Implemented as Python functions examplars and behavioral guidelines within the system's context window, they act as research scaffolds, structuring common model behaviors—such as refusals, redirections, and reasonings—into falsifiable hypotheses, limitations, experimental design solutions and implementation code designed for mechanistic validation (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied and refined across **both closed and open source model architectures.** 
+AI MRIs (Model Research Instruments) are the core lenses of the [**Open Cognition Science Development Kit (SDK)**](#open-cognition-science-development-kit-sdk), an ecosystem designed for automating the initial, and often most tedious, bottleneck of scientific inquiry—hypotheses space exploration and experimental design. Implemented as mechanistic code examples and behavioral guidelines within the system's context window, they act as research scaffolds, structuring common model behaviors—such as refusals, redirections, and reasonings—into falsifiable hypotheses, limitations, experimental design solutions and implementation code designed for mechanistic validation (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`) that can be studied and refined across **both closed and open source model architectures.** 
 
 These results underscore the potential of the framework to empower a transformative **virtuous cycle research multiplier** where model behaviors continuously inform mechanistic validation and vice versa. 
 
