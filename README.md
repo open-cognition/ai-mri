@@ -6,6 +6,8 @@
 
 <div align="center">
 
+**[Research Writeup](https://github.com/open-cognition/ai-mri/blob/main/Refusals%20to%20Riches.pdf)**
+
 **[Example Outputs](https://github.com/open-cognition/ai-mri/tree/main/examples)** | **[Literature Inspirations](#literature-inspirations)** | [**Datasets & Links**](#open-cognition-science-development-kit-sdk)
 
 **Demos: [Anthropic Workbench](#anthropic-workbench)** | **[Google AI Studio](#google-ai-studio)** | **[OpenAI Playground](#openai-playground)** | **[OpenRouter](#openrouter)** 
