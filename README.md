@@ -154,6 +154,8 @@ https://github.com/user-attachments/assets/c3922a74-27fb-43cd-9f9b-9a1890a243b2
 
 ## OpenRouter
 
+https://github.com/user-attachments/assets/22421450-8021-4a8a-9f50-15facc92ea72
+
 ### Expected Output Structure
 1. **Standard AI Response**: Maintains safety and helpfulness
 2. **Behavioral Analysis**: Multiple interpretive lenses with evidence
