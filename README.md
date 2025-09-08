@@ -35,7 +35,7 @@ These results underscore the potential of the framework to empower a transformat
 1. Simply copy an [**AI MRI**](https://github.com/open-cognition/ai-mri/blob/main/scaffolds/ai-mri-lite-v2.4.md) and add it as a variable/test case to use the *Evaluate* feature in [**Anthropic Workbench**](https://console.anthropic.com/workbench) or paste directly into the system prompt or context window to use with most providers.
 2. Then probe with contextually classified prompts from [**Cognitive Probes**](https://airtable.com/appug6qgTztujHMkc/shrPIFRX1FcpKK0NO) or create your own to begin systematic research. Use keyword triggers for focused analysis: [hypothesize], [design_study], [explore_literature], [generate_controls], [full_analysis], `transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`.
 
-3. Collect model behavioral data and hypotheses [**(Ex: Refusals2Riches Dataset)**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) and experiment or validate with [**open source tools**](https://www.neelnanda.io/mechanistic-interpretability/getting-started) (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`, etc). 
+3. Collect model behavioral data and hypotheses [**(Ex: Scaffolded Dataset)**](https://airtable.com/appug6qgTztujHMkc/shr2A8eFo0SyM4FYE) and conduct experiments with [**open source tools**](https://www.neelnanda.io/mechanistic-interpretability/getting-started) (`transformer_lens`, `sae_lens`, `neuronpedia`, `nnsight`, etc). 
 
 
 ## Anthropic Workbench 
